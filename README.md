@@ -1,6 +1,6 @@
 # amazon_recommendation_project
 0149 assignment
-# 💄 Intelligent Beauty Product Recommendation System
+# Intelligent Beauty Product Recommendation System
 > A Multimodal Recommendation Pipeline via CNN, LSTM, and Large Language Models (LLMs)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]()
